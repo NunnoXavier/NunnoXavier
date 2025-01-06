@@ -1,7 +1,10 @@
 <h1 align="center">Isaias "Nunno" Xavier</h1>
 <h3 align="center">Desenvolvedor</h3>
 
-Tenho atuaduado na área de TI desde 2011, na empresa Hipcom Informática, onde iniciei minha jornada como desenvolvedor de software. Durente este período me especializei em soluções de controle financeiro, gestão de estoque e análise e manipulação de dados. 
+Atuo na área de TI desde 2011, quando iniciei minha jornada na Hipcom Informática, uma empresa especializada em soluções para o varejo. Ao longo dos anos, fui me especializando em controle financeiro, gestão de estoque e análise e manipulação de dados.
+
+Durante esse período, tive a oportunidade de trabalhar com projetos desafiadores, que me permitiram adquirir um conhecimento profundo das necessidades do mercado e aplicar soluções práticas e inovadoras. Minha experiência me capacitou a criar sistemas robustos, otimizando processos e agregando valor aos negócios dos clientes.
+
 ##
 
 <div style="display: inline_block"><br>
